@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate Full Stack development and Data eng. brazilian student. I love learning and share about technology! ♥</h3>
+<h3 align="center">A passionate Full Stack development and Data eng. brazilian student. I love learning and sharing about technology! ♥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faelzsouza&label=Profile%20views&color=0e75b6&style=flat" alt="faelzsouza" /> </p>
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=faelzsouza)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=faelzsouza)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

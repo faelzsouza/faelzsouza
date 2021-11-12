@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faelzsouza&label=Profile%20views&color=0e75b6&style=flat" alt="faelzsouza" /> </p>
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=faelzsouza)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelzsouza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

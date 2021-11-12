@@ -5,7 +5,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelzsouza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="Rafael's stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faelzsouza&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="Rafael's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faelzsouza&show_icons=true&theme=nightowl&locale=en" alt="Rafael's stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

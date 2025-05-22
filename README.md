@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate brazilian Full Stack developer, DevOps and Data eng. I love learning and sharing about technology! ♥
+A passionate brazilian Full Stack developer. I love learning and sharing about technology! ♥
 
 
 ## 🌐 Socials:

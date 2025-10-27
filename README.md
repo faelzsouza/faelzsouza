@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate brazilian Full Stack developer. I love learning and sharing about technology! ♥
+I'm passionate about technology and development! I'm just starting out, but it's something I've always loved. Every day is a chance to learn something new—and I absolutely thrive on that. 💻✨
 
 
 ## 🌐 Socials:
